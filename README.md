@@ -6,9 +6,11 @@ Diretório para uso em exercícios de um curso de Git da DIO.
 - [Documentação GitHub](https://docs.github.com/)
 
 ## 💻 Resumos das Aulas 
-|Aulas | Resumos |
-|------|-------- |
-| Gravando Alterações no Repositório Local | [Resumos]() |
+|Aulas | Resumos    |
+|------|----------- |
+| Aula1| [Resumo]() |
+| Aula2| [Resumo]() |
+
 ````
 // comandos
 git init
